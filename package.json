@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/utimur/production_project_code_source.git"
+    "url": "git+https://github.com/vorpal13/ulbitv-course.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/utimur/production_project_code_source/issues"
+    "url": "https://github.com/vorpal13/ulbitv-course/issues"
   },
-  "homepage": "https://github.com/utimur/production_project_code_source#readme",
+  "homepage": "https://github.com/vorpal13/ulbitv-course#readme",
   "devDependencies": {
     "@types/node": "^17.0.21",
     "@types/webpack": "^5.28.0",
